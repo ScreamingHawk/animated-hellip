@@ -1,2 +1,2 @@
 # animated-hellip
-Simple script to animate hellips for as loading text
+Simple jQuery plugin to animate hellips. Can be used for loading text as in the example
